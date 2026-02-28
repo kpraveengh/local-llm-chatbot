@@ -16,19 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Hello World!</h1>
-      <p className="subtitle">React + Vite on Google Cloud Run</p>
-      <div className="card">
-        <button onClick={() => setCount((c) => c + 1)}>
-          Count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Deployed with GitHub Actions CI/CD
-      </p>
+      <h1>Welcome Simplehire</h1>
     </div>
   )
 }
